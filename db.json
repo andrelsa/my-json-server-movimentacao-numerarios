@@ -1,40 +1,44 @@
 {
   "antecipacao": [
-    {
-      "history": "Coobrigação efetivada TOTVS Antecipa",
-      "creditUnits": [],
-      "operation": 0,
-      "platformId": "8aa0942d-7cff-487c-938c-81a335213e90",
-      "erpId": "02|001101|278|000000290|02|NF",
-      "date": "20200728",
-      "localAmount": 234.9,
-      "feeAmount": 1.64,
-      "typeOperation": 0
-    },
-    {
-      "history": "Coobrigação efetivada TOTVS Antecipa",
-      "creditUnits": [],
-      "operation": 20,
-      "platformId": "aad53b5d-a32d-4748-9092-cadd1439afa5",
-      "erpId": "02|001101|DEV|0620123|01|NCC",
-      "date": "20200728",
-      "localAmount": 234.9,
-      "feeAmount": 1.64,
-      "typeOperation": 0
-    },
-    {
-      "history": "Coobrigação efetivada TOTVS Antecipa",
-      "creditUnits": [],
-      "operation": 0,
-      "platformId": "677b9aff-a39f-4ce1-8a4a-8f1398748d7a",
-      "erpId": "02|001101|DEV|123TOTAL|01|NCC",
-      "date": "20200728",
-      "localAmount": 234.9,
-      "feeAmount": 1.64,
-      "typeOperation": 0
-    }
+        {
+            "history": "Baixa efetivada TOTVS Antecipa",
+            "creditUnits": [],
+            "operation": 0,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "66000177933266",
+            "date": "20200728",
+            "localAmount": 234.9,
+            "feeAmount": 1.64,
+            "typeOperation": 0
+       }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+    "conciliacao": [
+            {
+            "history": "Implantação de antecipação",
+            "creditUnits": [],
+            "operation": 20,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177933201",
+            "date": "20200728",
+            "localAmount": 234.9,
+            "feeAmount": 1.64,
+            "typeOperation": 2,
+             "bankCode": "1",
+             "agencyCode ": "4362-1",
+             "accountCode": "5237-X"
+       }
+  ],
+    "baixa": [
+            {
+            "history": "Baixa efetivada TOTVS Antecipa",
+            "creditUnits": [],
+            "operation": 1,
+            "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+            "erpId": "01000177933201",
+            "date": "20200728",
+            "localAmount": 234.9,
+            "feeAmount": 1.64,
+            "typeOperation": 0
+       }
+  ]
 }
