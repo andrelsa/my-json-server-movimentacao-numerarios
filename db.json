@@ -9,7 +9,7 @@
       "date": "20200728",
       "localAmount": 584.11,
       "feeAmount": 20.5,
-      "typeOperation": 2,
+      "typeOperation": 2
 
     }
   ],
@@ -26,7 +26,7 @@
       "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
-      "accountCode": "5237-X",
+      "accountCode": "5237-X"
 
     }
   ],
