@@ -14,15 +14,15 @@
   ],
   "conciliacao": [
     {
-      "history": "RECOM com 1-Debito:Recompra",
+      "history": "IMPL com 2-Credito: Implantação de antecipação",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177933201",
+      "erpId": "01000177943701",
       "date": "20200728",
-      "localAmount": 325.7,
-      "feeAmount": 15.53,
-      "typeOperation": 1,
+      "localAmount": 325.11,
+      "feeAmount": 20.50,
+      "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
       "accountCode": "5237-X"
