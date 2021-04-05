@@ -5,7 +5,7 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177935802",
+      "erpId": "01000177943702",
       "date": "20200728",
       "localAmount": 1149.72,
       "feeAmount": 21.53,
@@ -14,15 +14,15 @@
   ],
   "conciliacao": [
     {
-      "history": "DIVCOM com 1-Debito: Divergencia comercial",
+      "history": "IMPL com 2-Credito: Implantação de antecipação",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177943702",
       "date": "20200728",
-      "localAmount": 234.9,
-      "feeAmount": 1.64,
-      "typeOperation": 1,
+      "localAmount": 1149.72,
+      "feeAmount": 21.53,
+      "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
       "accountCode": "5237-X"
