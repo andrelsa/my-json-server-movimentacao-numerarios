@@ -19,15 +19,14 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177943702",
+      "erpId": "01004949139301",
       "date": "20200728",
-      "localAmount": 1149.72,
-      "feeAmount": 21.53,
+      "localAmount": 467.9,
+      "feeAmount": 22.58,
       "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
       "accountCode": "5237-X"
-
     }
   ],
   "divergencia": [
