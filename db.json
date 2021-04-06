@@ -1,7 +1,7 @@
 {
   "baixa": [
     {
-      "history": "Antecipação - Operação 0-Antecipação",
+      "history": "Baixa - Operação 1-Baixa",
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -60,7 +60,7 @@
   ],
   "estornobaixa": [
     {
-      "history": "Recompra efetivada TOTVS Antecipa - Operação 8-Recompra",
+      "history": "Estorno da baixa - Operação 2 - Estorno da Baixa",
       "creditUnits": [],
       "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
