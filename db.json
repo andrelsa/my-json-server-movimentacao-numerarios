@@ -1,16 +1,15 @@
 {
-  "antecipacao": [
+  "baixa": [
     {
       "history": "Antecipação - Operação 0-Antecipação",
       "creditUnits": [],
-      "operation": 0,
+      "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177943702",
+      "erpId": "01004949139301",
       "date": "20200728",
-      "localAmount": 1149.72,
-      "feeAmount": 21.53,
-      "typeOperation": 2
-
+      "localAmount": 467.9,
+      "feeAmount": 22.58,
+      "typeOperation": 0
     }
   ],
   "conciliacao": [
@@ -59,16 +58,16 @@
       "typeOperation": 0
     }
   ],
-  "recompra": [
+  "estornobaixa": [
     {
       "history": "Recompra efetivada TOTVS Antecipa - Operação 8-Recompra",
       "creditUnits": [],
-      "operation": 8,
+      "operation": 2,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177943702",
+      "erpId": "01004949139301",
       "date": "20200728",
-      "localAmount": 584.11,
-      "feeAmount": 20.5,
+      "localAmount": 467.9,
+      "feeAmount": 22.58,
       "typeOperation": 0
     }
   ]
