@@ -58,13 +58,13 @@
       "typeOperation": 0
     }
   ],
-  "estornobaixa": [
+  "recompra": [
     {
-      "history": "Estorno da baixa - Operação 2 - Estorno da Baixa",
+      "history": "Recompra - Operação 8 = Recompra",
       "creditUnits": [],
-      "operation": 2,
+      "operation": 8,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01004949139301",
+      "erpId": "01000177943701",
       "date": "20200728",
       "localAmount": 4532.01,
       "feeAmount": 22.58,
