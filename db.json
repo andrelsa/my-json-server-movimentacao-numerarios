@@ -5,12 +5,11 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177857501",
+      "erpId": "01000177860301",
       "date": "20200728",
-      "localAmount": 993.97,
+      "localAmount": 1194.26,
       "feeAmount": 51.64,
       "typeOperation": 0
-
     }
   ],
   "conciliacao": [
@@ -19,9 +18,9 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177857501",
+      "erpId": "01000177860301",
       "date": "20200728",
-      "localAmount": 942.33,
+      "localAmount": 1142.62,
       "feeAmount": 51.64,
       "typeOperation": 2,
       "bankCode": "1",
