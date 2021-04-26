@@ -5,22 +5,22 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000177705501",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 748.79,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
   ],
   "conciliacao": [
     {
-      "history": "1-Debito: Coobrigação efetivada",
+      "history": "1777055|Implantação de antecipação",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000177705501",
       "date": "20200728",
-      "localAmount": 1316.51,
+      "localAmount": 697.15,
       "feeAmount": 51.64,
       "typeOperation": 1,
       "bankCode": "1",
@@ -34,9 +34,9 @@
       "creditUnits": [],
       "operation": 4,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000177705501",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 748.79,
       "feeAmount": 51.64,
       "feeAmountOrigin": 9.99,
       "typeOperation": 1,
@@ -51,9 +51,9 @@
       "creditUnits": [],
       "operation": 3,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000177705501",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 748.79,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
@@ -64,9 +64,9 @@
       "creditUnits": [],
       "operation": 8,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000177705501",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 748.79,
       "feeAmount": 51.64,
       "typeOperation": 0
     }
