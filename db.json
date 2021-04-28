@@ -5,27 +5,40 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177705501",
+      "erpId": "01000177704301",
       "date": "20200728",
-      "localAmount": 748.79,
-      "feeAmount": 51.64,
+      "localAmount": 58.78,
+      "feeAmount": 5.64,
       "typeOperation": 0
     }
   ],
   "conciliacao": [
     {
-      "history": "1777055|Coobrigação efetivada",
+      "history": "1777043|Implantação de antecipação",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177705501",
+      "erpId": "01000177704301",
       "date": "20200728",
-      "localAmount": 697.15,
-      "feeAmount": 51.64,
+      "localAmount": 53.14,
+      "feeAmount": 5.64,
       "typeOperation": 1,
       "bankCode": "1",
       "agencyCode ": "4362-1",
       "accountCode": "5237-X"
+    }
+  ],
+  "baixa-parcial": [
+    {
+      "history": "Operação 1-Baixa do título",
+      "creditUnits": [],
+      "operation": 1,
+      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
+      "erpId": "01000177704301",
+      "date": "20200728",
+      "localAmount": 8.78,
+      "feeAmount": 5.64,
+      "typeOperation": 1
     }
   ],
   "divergencia": [
@@ -50,19 +63,6 @@
       "history": "Coobrigação efetivada TOTVS Antecipa - Operação 3-Coobrigação",
       "creditUnits": [],
       "operation": 3,
-      "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177705501",
-      "date": "20200728",
-      "localAmount": 748.79,
-      "feeAmount": 51.64,
-      "typeOperation": 0
-    }
-  ],
-  "recompra": [
-    {
-      "history": "Recompra - Operação 8 = Recompra",
-      "creditUnits": [],
-      "operation": 8,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177705501",
       "date": "20200728",
