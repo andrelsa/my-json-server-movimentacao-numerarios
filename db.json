@@ -7,7 +7,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177857501",
       "date": "20200728",
-      "localAmount": 596.97,
+      "localAmount": 993.97,
       "feeAmount": 55.64,
       "typeOperation": 0
     }
@@ -20,7 +20,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177936801",
       "date": "20200728",
-      "localAmount": 659.50,
+      "localAmount": 938.33,
       "feeAmount": 55.64,
       "typeOperation": 2,
       "bankCode": "1",
@@ -36,7 +36,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177857501",
       "date": "20200728",
-      "localAmount": 596.97,
+      "localAmount": 993.97,
       "feeAmount": 55.64,
       "typeOperation": 1
     }
@@ -49,7 +49,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177857501",
       "date": "20200728",
-      "localAmount": 596.97,
+      "localAmount": 993.97,
       "feeAmount": 55.64,
       "feeAmountOrigin": 9.99,
       "typeOperation": 1,
@@ -66,7 +66,7 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000177857501",
       "date": "20200728",
-      "localAmount": 596.97,
+      "localAmount": 993.97,
       "feeAmount": 55.64,
       "typeOperation": 0
     }
