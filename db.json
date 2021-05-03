@@ -14,7 +14,7 @@
   ],
   "conciliacao": [
     {
-      "history": "1777088|Implantação de antecipação",
+      "history": "1777088|Divergencia comercial",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -22,7 +22,7 @@
       "date": "20200728",
       "localAmount": 53.64,
       "feeAmount": 5.64,
-      "typeOperation": 2,
+      "typeOperation": 1,
       "bankCode": "1",
       "agencyCode ": "4362-1",
       "accountCode": "5237-X"
@@ -30,7 +30,7 @@
   ],
   "recompra": [
     {
-      "history": "Operação 1-Baixa do título",
+      "history": "Recompra - Operação 8-Recompra",
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -43,7 +43,7 @@
   ],
   "divergencia": [
     {
-      "history": "Divergência Comercial efetivada TOTVS Antecipa - Operação 4-Divergência comercial",
+      "history": "Divergência Comercial - Operação 4-Divergência comercial",
       "creditUnits": [],
       "operation": 4,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
@@ -60,7 +60,7 @@
   ],
   "coobrigacao": [
     {
-      "history": "Coobrigação efetivada TOTVS Antecipa - Operação 3-Coobrigação",
+      "history": "Coobrigação - Operação 3-Coobrigação",
       "creditUnits": [],
       "operation": 3,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
