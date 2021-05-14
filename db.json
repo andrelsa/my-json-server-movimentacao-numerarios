@@ -5,22 +5,22 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 684.88,
       "feeAmount": 22.08,
       "typeOperation": 0
     }
   ],
   "conciliacao": [
     {
-      "history": "1779440|Implantação de antecipação",
+      "history": "1979602|Implantação de antecipação",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 1346.07,
+      "localAmount": 662.75,
       "feeAmount": 22.08,
       "typeOperation": 2,
       "bankCode": "1",
@@ -28,15 +28,15 @@
       "accountCode": "5237-X"
     }
   ],
-  "recompra": [
+  "baixa": [
     {
-      "history": "Recompra - Operação 8-Recompra",
+      "history": "Baixa - Operação 1-Baixa do título",
       "creditUnits": [],
       "operation": 1,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 684.88,
       "feeAmount": 22.08,
       "typeOperation": 1
     }
@@ -47,9 +47,9 @@
       "creditUnits": [],
       "operation": 4,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 684.88,
       "feeAmount": 22.08,
       "feeAmountOrigin": 9.99,
       "typeOperation": 1,
@@ -64,9 +64,9 @@
       "creditUnits": [],
       "operation": 3,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177944001",
+      "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 1368.15,
+      "localAmount": 684.88,
       "feeAmount": 22.08,
       "typeOperation": 0
     }
