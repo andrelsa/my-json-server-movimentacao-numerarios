@@ -14,14 +14,14 @@
   ],
   "conciliacao": [
     {
-      "history": "1979602|Implantação de antecipação",
+      "history": "1979602|Coobrigação efetivada",
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 662.75,
-      "feeAmount": 22.08,
+      "localAmount": 684.03,
+      "feeAmount": 0,
       "typeOperation": 2,
       "bankCode": "1",
       "agencyCode ": "4362-1",
@@ -49,8 +49,8 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 706.91,
-      "feeAmount": 0,
+      "localAmount": 684.83,
+      "feeAmount": 22.08,
       "feeAmountOrigin": 9.99,
       "typeOperation": 1,
       "bankCode": "1",
@@ -66,8 +66,8 @@
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
       "erpId": "01000197960201",
       "date": "20200728",
-      "localAmount": 706.91,
-      "feeAmount": 0,
+      "localAmount": 684.83,
+      "feeAmount": 22.08,
       "typeOperation": 0
     }
   ]
