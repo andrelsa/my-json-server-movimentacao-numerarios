@@ -5,9 +5,9 @@
       "creditUnits": [],
       "operation": 0,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000197960201",
+      "erpId": "01000177941101",
       "date": "20200728",
-      "localAmount": 684.83,
+      "localAmount": 958.33,
       "feeAmount": 22.08,
       "typeOperation": 0
     }
@@ -18,9 +18,9 @@
       "creditUnits": [],
       "operation": 20,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000197960201",
+      "erpId": "01000177941101",
       "date": "20200728",
-      "localAmount": 684.03,
+      "localAmount": 958.33,
       "feeAmount": 0,
       "typeOperation": 2,
       "bankCode": "1",
@@ -64,10 +64,10 @@
       "creditUnits": [],
       "operation": 3,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000177713401",
+      "erpId": "01000177941101",
       "date": "20200728",
-      "localAmount": 60.48,
-      "feeAmount": 15.65,
+      "localAmount": 958.33,
+      "feeAmount": 22.08,
       "typeOperation": 0
     }
   ]
