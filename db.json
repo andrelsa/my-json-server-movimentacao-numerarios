@@ -41,21 +41,17 @@
       "typeOperation": 1
     }
   ],
-  "divergencia": [
+  "recompra": [
     {
-      "history": "Divergência Comercial - Operação 4-Divergência comercial",
+      "history": "Recompra - Operação 8-Recompra",
       "creditUnits": [],
-      "operation": 4,
+      "operation": 8,
       "platformId": "5586f50b-3262-48b8-bd2a-92e59be4dfdd",
-      "erpId": "01000197960201",
+      "erpId": "01000177941101",
       "date": "20200728",
-      "localAmount": 684.83,
+      "localAmount": 958.33,
       "feeAmount": 22.08,
-      "feeAmountOrigin": 9.99,
-      "typeOperation": 1,
-      "bankCode": "1",
-      "agencyCode ": "4362-1",
-      "accountCode": "5237-X"
+      "typeOperation": 0
     }
   ],
   "coobrigacao": [
